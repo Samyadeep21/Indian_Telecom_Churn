@@ -1,4 +1,4 @@
-# 🇮🇳 Bharat Telco: Real-Time Customer Retention AI 
+# IN. Bharat Telco: Real-Time Customer Retention AI 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_svg)](YOUR_DEPLOYMENT_LINK_HERE)
 [![Python 3.13+](https://img.shields.io/badge/python-3.13%2B-blue.svg)](https://www.python.org/downloads/)
 [![XGBoost](https://img.shields.io/badge/ML-XGBoost-orange.svg)](https://xgboost.readthedocs.io/)
