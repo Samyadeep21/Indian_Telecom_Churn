@@ -54,6 +54,34 @@ pip install -r requirements.txt
 Bash
 streamlit run app.py
 
+---
+
+## 🖥️ Project Showcase
+
+### 📍 Main Dashboard
+This interactive interface allows telecom managers to simulate customer behavior and predict churn risk in real-time.
+
+<p align="center">
+  <img src="screenshots/Screenshot 2026-01-04 173454.png" width="800" alt="Main Dashboard Interface">
+</p>
+
+### 🔍 Explainable AI & Market Insights
+We don't just provide a score; we show **why** the AI made that decision using interactive Plotly visualizations and local market context.
+
+<p align="center">
+  <img src="screenshots/Screenshot 2026-01-04 173525.png" width="450" />
+  <img src="screenshots/Screenshot 2026-01-04 173611.png" width="450" /> 
+</p>
+
+> **Left:** Interactive Feature Importance chart highlighting top churn drivers (e.g., Estimated Salary, Usage).  
+> **Right:** Final prediction output with specific Indian market retention strategies.
+
+---
+
+### ⚙️ Technical Implementation (Backend)
+The model is trained using **XGBoost** on an Indian Telecom dataset. Below is the successful execution of the training pipeline and Streamlit server launch.
+
+![Terminal Execution](screenshots/backend_terminal.png)
 
 ---
 
