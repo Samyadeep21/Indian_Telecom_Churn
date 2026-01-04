@@ -62,15 +62,15 @@ streamlit run app.py
 This interactive interface allows telecom managers to simulate customer behavior and predict churn risk in real-time.
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-04 173454.png" width="800" alt="Main Dashboard Interface">
+  <img src="screenshots/Screenshot1.png" width="800" alt="Main Dashboard Interface">
 </p>
 
 ### 🔍 Explainable AI & Market Insights
-We don't just provide a score; we show **why** the AI made that decision using interactive Plotly visualizations and local market context.
+We don't just provide a score; we show **why** the AI made that decision using interactive Plotly visualizations and local market context, as we change the different features in our app like customer age, telecom partner,calls etc.
 
 <p align="center">
-  <img src="screenshots/Screenshot 2026-01-04 173525.png" width="450" />
-  <img src="screenshots/Screenshot 2026-01-04 173611.png" width="450" /> 
+  <img src="screenshots/Screenshot2.png" width="450" />
+  <img src="screenshots/Screenshot3.png" width="450" /> 
 </p>
 
 > **Left:** Interactive Feature Importance chart highlighting top churn drivers (e.g., Estimated Salary, Usage).  
